@@ -11,18 +11,18 @@ ID.<br />
 - Windows 11
 <h2>Authentication Methods </h2>
 <p>
-<img width="1497" height="772" alt="image"
-src="https://github.com/user-attachments/assets/a5354ace-9dad-4583-90a3-2e0dfb74bad1" />
+<img width="949" height="467" alt="AR Authentication" src="https://github.com/user-attachments/assets/d74b2a6d-632a-4290-92d9-d9d01c190a54" />
+
 </p>
 <p>
-Assigned phone number as Authentication method for user Chris Walker.
+Assigned phone number as Authentication method for user Amy Rawlings.
 </p>
 <br />
 <p>
-<img width="1480" height="678" alt="image"
-src="https://github.com/user-attachments/assets/e0d96c87-4df3-459a-88bb-44fcabafb150" />
+<img width="954" height="477" alt="CW Authentication" src="https://github.com/user-attachments/assets/14fccc70-0285-44e4-abbe-81d6161f3d28" />
+
 </p>
 <p>
-Assigned phone number as Authentication method for user Jordan Lee.
+Assigned phone number as Authentication method for user Chantel Wallace.
 </p>
 <br />
